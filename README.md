@@ -22,6 +22,15 @@ This project successfully demonstrates that unsupervised cluster analysis is a p
 * **Machine Learning:** Scikit-Learn (`KMeans`, `silhouette_score`, `StandardScaler`)
 * **Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn
 
+### 📂 Repository Structure
+
+├── Code/
+│   └── Penguin-segmentation-kmeans.py      # Executable Python script with the modeling pipeline
+├── Data/
+│   └── penguins.csv                        # Source biological dataset
+├── Notebooks/
+│   └── Penguin-segmentation-kmeans.ipynb   # Interactive data exploration and analysis notebook
+└── README.md                               # Project documentation
 ---
 
 ## 🇪🇸 Descripción del Proyecto
@@ -46,4 +55,12 @@ El proyecto demuestra con éxito que el análisis de clústeres no supervisado e
 * **Machine Learning:** Scikit-Learn (`KMeans`, `silhouette_score`, `StandardScaler`)
 * **Datos y Visualización:** Pandas, NumPy, Matplotlib, Seaborn
 
+### 📂 Estructura del Repositorio
 
+├── Code/
+│   └── Penguin-segmentation-kmeans.py      # Script ejecutable de Python con el pipeline de modelado
+├── Data/
+│   └── penguins.csv                        # Dataset biológico original
+├── Notebooks/
+│   └── Penguin-segmentation-kmeans.ipynb   # Notebook interactivo con la exploración y el análisis
+└── README.md                               # Documentación del proyecto
